@@ -1,3 +1,5 @@
 displayName = Craft Magic Mirrors
 author = hz01
 version = 0.2
+includeSource = true
+side = Both
