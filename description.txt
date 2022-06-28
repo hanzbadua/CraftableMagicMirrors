@@ -1,0 +1,3 @@
+Makes Magic Mirrors and Ice Mirrors craftable 
+Magic Mirror x 1: Any Iron Bar x 4, Glass x 6, Recall Potion x 10
+Ice Mirror x 1: Magic Mirror x 1, Ice Block x 10
