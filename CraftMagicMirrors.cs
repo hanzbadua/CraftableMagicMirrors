@@ -4,8 +4,8 @@ using Terraria.ModLoader;
 
 namespace CraftMagicMirrors
 {
-	public class CraftMagicMirrors : Mod
-	{
+    public class CraftMagicMirrors : Mod
+    {
         public override void AddRecipes()
         {
             _ = Recipe.Create(ItemID.MagicMirror, 1)
